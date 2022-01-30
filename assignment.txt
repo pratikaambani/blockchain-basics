@@ -1,0 +1,63 @@
+eth:
+
+aa04c36bb7aa363d9eb87605271f83c55de6adda
+p1
+
+[
+  {
+    "id": "eb8a26734be5628d2744f9030919bf6f0d9ba01cc72679dd0d566f0eb000083e2c5d1461c7d099b82bd4818748039c1c149c72a9ad76d563166e85f634e45e08",
+    "name": "Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9",
+    "caps": [
+      "eth/63"
+    ],
+    "network": {
+      "localAddress": "[::1]:49236",
+      "remoteAddress": "[::1]:30302"
+    },
+    "protocols": {
+      "eth": {
+        "version": 63,
+        "difficulty": 131072,
+        "head": "0x5e1fc79cb4ffa4739177b5408045cd5d51c6cf766133f23f7cd72ee1f8d790e0"
+      }
+    }
+  }
+]
+
+
+
+834de985ffb6bf1ce77e6e61078eb895b8635810
+p2
+
+[
+  {
+    "id": "8865cbdacb6e460678403ee3327f306500480d5c28b7661684338006f2ef75df6c84f694988b88f457df4ef4130f0f761237be2ba982fefa6248f564a1f31adb",
+    "name": "Geth/v1.7.3-stable-4bb3c89d/linux-amd64/go1.9",
+    "caps": [
+      "eth/63"
+    ],
+    "network": {
+      "localAddress": "[::1]:30302",
+      "remoteAddress": "[::1]:49236"
+    },
+    "protocols": {
+      "eth": {
+        "version": 63,
+        "difficulty": 131072,
+        "head": "0x5e1fc79cb4ffa4739177b5408045cd5d51c6cf766133f23f7cd72ee1f8d790e0"
+      }
+    }
+  }
+]
+
+
+node 1 = 4 accounts:
+p3
+
+node 1 = 4 accounts:
+p4
+
+
+
+
+Assignment Answer: 97c8d39fc70b52208f18fc66bbf58874b
